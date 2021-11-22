@@ -8,5 +8,5 @@ mmcv-full==1.2.4
 vfnet_coco.py里是配置参数 注意数据集的位置
 coco_single_test.py是单张图片预测
 
-
+#环境安装完成后删除冗余文件
 
