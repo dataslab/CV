@@ -16,3 +16,8 @@
  　 　模型描述: 目标检测(基于MMdetection)  
  　 　任务类型: 目标检测、目标分割   
  　 　github主页: https://github.com/hyz-xmaster/VarifocalNet  
+
+### s2anet
+ 　 　模型描述: 旋转目标检测(基于MMdetection)  
+ 　 　任务类型: 目标检测、目标分割   
+ 　 　github主页: https://github.com/csuhan/s2anet 
